@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is my e-mail. // p2949@naver.com
 
 <!--
 **jino-tel/jino-tel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
